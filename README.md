@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+In app.css :root was not copied
+
+Reqd urls : desktop, sign up page, platform(on succ login), sessions, downloads   
+
+Didn't create ProductList, Product component
